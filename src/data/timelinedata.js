@@ -7,7 +7,7 @@ export default [
       "Working Remotely for Information Data system Developing front end for the web products.",
   },
   {
-    year: "sept-2023-march-2024",
+    year: "Sept-2023-March-2024",
     title: "Front-End Intern",
     duration: "6 months",
     details:

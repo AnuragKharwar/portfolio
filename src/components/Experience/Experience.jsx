@@ -20,13 +20,13 @@ const Experience = () => {
 
       <div className="mt-[50px]  h-full flex lg:flex-row flex-col justify-between gap-x-32 gap-y-14 ">
         <Card
-          src={"/assets/traineee.png"}
-          role="Internship Trainee"
-          organisation={"Internshala · Apprenticeship"}
-          time={"Jun 2022 - Jul 2022 · 2 month"}
-          location={"India · Remote"}
+          role="SDE-1"
+          src={"/assets/sde.jpg"}
+          organisation={"IDS · Front-End Developer"}
+          time={"April 2024 - Currenlty"}
+          location={"Hyderabad,India · Remote"}
           description={
-            "The training consisted of Introduction to VLSI, HDL Coding Concepts in C language."
+            "Working Remotly as a Front-End Developer and developing User-interfaces and integrating api for blockchain based web product."
           }
         />
         <Card
@@ -36,17 +36,17 @@ const Experience = () => {
           time={"Sept 2023 - March 2024 · 6 months"}
           location={"Hyderabad,India · Remote"}
           description={
-            "Developned varioud User Interfaces and web application UI for blockchain based web product using Reactjs,Nextjs,tailwind,etc and also integrated many GraaphQl and Rest Apis."
+            "Developned various User Interfaces and web application UI for blockchain based web product using Reactjs,Nextjs,tailwind,etc and also integrated many GraaphQl and Rest Apis."
           }
         />
         <Card
-          role="SDE-1"
-          src={"/assets/sde.jpg"}
-          organisation={"IDS · Front-End Developer"}
-          time={"April 2024 - Currenlty"}
-          location={"Hyderabad,India · Remote"}
+          src={"/assets/traineee.png"}
+          role="Internship Trainee"
+          organisation={"Internshala · Apprenticeship"}
+          time={"Jun 2022 - Jul 2022 · 2 month"}
+          location={"India · Remote"}
           description={
-            "Working Remotly as a Front-End Developer and developing User-interfaces and integrating api for there blockchain based web product."
+            "The training consisted of Introduction to VLSI, HDL Coding Concepts in C language."
           }
         />
       </div>

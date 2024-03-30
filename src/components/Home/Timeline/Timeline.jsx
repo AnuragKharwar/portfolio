@@ -10,9 +10,10 @@ function Timeline() {
         <Title className={classes.Title} id="timeline">
           Timeline
         </Title>
-        {timelinedata.map((item) => (
+        {timelinedata.map((item, index) => (
           <TimelineItem
             year={item.year}
+            key={index}
             title={item.title}
             duration={item.duration}
             details={item.details}

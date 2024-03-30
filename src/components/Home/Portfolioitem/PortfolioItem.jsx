@@ -13,8 +13,10 @@ function PortfolioItem({ title, imgUrl, stack, link }) {
         <div className={classes.Item_detail}>
           <h3 className={classes.Title}>{title}</h3>
           <p className={classes.Stacks}>
-            {stack.map((item) => (
-              <span className={classes.Item}>{item}</span>
+            {stack.map((item, index) => (
+              <span className={classes.Item} key={index}>
+                {item}
+              </span>
             ))}
           </p>
         </div>
