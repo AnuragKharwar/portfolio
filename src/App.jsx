@@ -10,18 +10,17 @@ import Experience from "./components/Experience/Experience";
 function App() {
   return (
     <div className={classes.app}>
+      e
       <div className="w-full ">
         <Router>
-          <ThemeProvider defaultTheme="dark" storageKey="vite-ui-theme">
-            <Navbar />
-            <Routes>
-              <Route path="/" exact element={<Home />} />
-              <Route path="/about" element={<About />} />
-              <Route path="/project" element={<Portfolio />} />
-              <Route path="/timeline" element={<Timeline />} />
-              <Route path="/experience" element={<Experience />} />
-            </Routes>
-          </ThemeProvider>
+          <Navbar />
+          <Routes>
+            <Route path="/" exact element={<Home />} />
+            <Route path="/about" element={<About />} />
+            <Route path="/project" element={<Portfolio />} />
+            <Route path="/timeline" element={<Timeline />} />
+            <Route path="/experience" element={<Experience />} />
+          </Routes>
         </Router>
       </div>
     </div>

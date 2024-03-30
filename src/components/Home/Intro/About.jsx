@@ -28,7 +28,7 @@ const About = () => {
               solutions.
             </p>
           </div>
-      </div>
+        </div>
       </div>
       {/* <div>
         <h1 className="text-xl font-extralight animate-blink mt-10">

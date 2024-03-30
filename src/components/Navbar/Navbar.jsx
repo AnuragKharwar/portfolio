@@ -121,13 +121,12 @@ const Navbar = () => {
               </div>
             </DropdownMenuItem>
             <DropdownMenuItem>
-                <a
+              <a
                 href="https://drive.google.com/file/d/1BiiiHLGqggFy3rU6aSo_siRZENk4RAc_/view?usp=drive_link"
                 target="_blank"
               >
                 Resume
               </a>
-             
             </DropdownMenuItem>
             <DropdownMenuItem>
               <div className="cursor-pointer">

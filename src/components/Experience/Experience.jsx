@@ -12,7 +12,7 @@ const Experience = () => {
 
       <div className="mt-[50px]  h-full flex lg:flex-row flex-col justify-between gap-x-32 gap-y-14 ">
         <Card
-          src={"dist/assets/traineee.png"}
+          src={"public/assets/traineee.png"}
           role="Internship Trainee"
           organisation={"Internshala · Apprenticeship"}
           time={"Jun 2022 - Jul 2022 · 2 month"}
@@ -23,7 +23,7 @@ const Experience = () => {
         />
         <Card
           role="Intern"
-          src={"dist/assets/intern.png"}
+          src={"public/assets/intern.png"}
           organisation={"IDS · Front-End Internship"}
           time={"Sept 2023 - March 2024 · 6 months"}
           location={"Hyderabad,India · Remote"}
@@ -33,7 +33,7 @@ const Experience = () => {
         />
         <Card
           role="SDE-1"
-          src={"dist/assets/sde.jpg"}
+          src={"public/assets/sde.jpg"}
           organisation={"IDS · Front-End Developer"}
           time={"April 2024 - Currenlty"}
           location={"Hyderabad,India · Remote"}
