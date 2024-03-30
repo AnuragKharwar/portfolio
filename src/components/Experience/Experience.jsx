@@ -18,10 +18,10 @@ const Experience = () => {
         </h1>
       </div>
 
-      <div className="mt-[50px]   flex md:flex-row flex-col justify-between gap-x-10 lg:gap-x-32 gap-y-14 ">
+      <div className="mt-[50px] flex lg:flex-row flex-col justify-between gap-x-10 lg:gap-x-18 gap-y-14 ">
         <Card
           role="SDE-1"
-          src={"/assets/sde.jpg"}
+          src={"/assets/sde2.png"}
           organisation={"IDS · Front-End Developer"}
           time={"April 2024 - Currenlty"}
           location={"Hyderabad,India · Remote"}
@@ -31,7 +31,7 @@ const Experience = () => {
         />
         <Card
           role="Intern"
-          src={"/assets/intern.png"}
+          src={"/assets/intern2.jpeg"}
           organisation={"IDS · Front-End Internship"}
           time={"Sept 2023 - March 2024 · 6 months"}
           location={"Hyderabad,India · Remote"}

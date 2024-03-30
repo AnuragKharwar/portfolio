@@ -1,7 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato:ital@1&family=Open+Sans:ital,wght@0,400;0,500;1,300;1,400&family=Questrial&family=Roboto:ital,wght@1,300&display=swap");
 /* @import url('https://fonts.googleapis.com/css2?family=Brygada+1918:wght@700&display=swap'); */
 .app {
-  background-color: #dbf2d4;
+  /* background-color: #dbf2d4;
+         */
+    background-color: #FFCAD4;
   color: #111;
 }
 

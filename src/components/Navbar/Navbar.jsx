@@ -18,7 +18,7 @@ const Navbar = () => {
   const path = location.pathname;
 
   return (
-    <div className="w-full flex dark:bg-[#222831] bg-slate-200 sticky top-0 justify-end z-10 opacity-80">
+    <div className="w-full flex dark:bg-[#222831] bg-[#222831] text-white sticky top-0 justify-end z-10 ">
       <div className="md:hidden  w-full flex p-2 ">
         <DropdownMenu>
           <DropdownMenuTrigger className="outline-none">
