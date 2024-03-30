@@ -8,7 +8,7 @@ const Experience = () => {
 
   return (
     <div
-      className={`mt-[50px]  flex flex-col items-center justify-center ${
+      className={`mt-[50px]  flex flex-col items-center justify-start ${
         path === "/experience" && "h-[100vh]"
       } `}
     >
@@ -18,7 +18,7 @@ const Experience = () => {
         </h1>
       </div>
 
-      <div className="mt-[50px]  h-full flex md:flex-row flex-col justify-between gap-x-10 lg:gap-x-32 gap-y-14 ">
+      <div className="mt-[50px]   flex md:flex-row flex-col justify-between gap-x-10 lg:gap-x-32 gap-y-14 ">
         <Card
           role="SDE-1"
           src={"/assets/sde.jpg"}

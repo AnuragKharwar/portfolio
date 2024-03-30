@@ -1,7 +1,7 @@
 import React from "react";
 const About = () => {
   return (
-    <div className="flex justify-center h-[100vh] flex-col items-center mt-[180px] sm:mt-[100px] lg:m-0 ">
+    <div className="flex justify-center h-full lg:h-[100vh] flex-col items-center  ">
       <div className="lg:w-[70rem] flex flex-col justify-center items-center lg:px-10 lg:grid grid-cols-2  ">
         <div className="flex justify-center items-center w-[30rem] h-[30rem] relative  overflow-hidden ">
           <img
@@ -17,7 +17,7 @@ const About = () => {
               Hyderabad,India.
             </h1>
           </div>
-          <div className="text-lg mt-4">
+          <div className="text-lg mt-4 ">
             <p>
               Dedicated and dynamic professional with a graduation in
               Electronics and Communication Engineering from NIT Surat.
