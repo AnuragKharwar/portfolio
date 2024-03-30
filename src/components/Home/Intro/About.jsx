@@ -1,18 +1,18 @@
 import React from "react";
 const About = () => {
   return (
-    <div className="flex justify-center flex-col items-center lg:pt-10 ">
+    <div className="flex justify-center h-[100vh] flex-col items-center  ">
       <div className="lg:w-[70rem] flex flex-col justify-center items-center lg:px-10 lg:grid grid-cols-2  ">
         <div className="flex justify-center items-center w-[30rem] h-[30rem] relative  overflow-hidden ">
           <img
-            src="public/assets/profile-pic.png"
+            src="/assets/profile-pic.png"
             className="absolute lg:w-[100%] lg:h-[100%]  bg-cover p-20 lg:p-0"
           />
         </div>
         <div className="lg:grid grid-rows-2 flex flex-col w-full px-10 lg:p-0">
           <div className=" text-bold text-4xl font-brygada1918">
             <h1 className="font-semibold">
-              Hi👋 I'm Anurag, a Front-End Developer working remotely for
+              Hi👋 I'm Anurag, a Front-End Developer working remotely fore
               Information Data System for their Block Chain based Web product in
               Hyderabad,India.
             </h1>

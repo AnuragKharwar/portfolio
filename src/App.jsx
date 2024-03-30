@@ -10,7 +10,6 @@ import Experience from "./components/Experience/Experience";
 function App() {
   return (
     <div className={classes.app}>
-      e
       <div className="w-full ">
         <Router>
           <Navbar />
