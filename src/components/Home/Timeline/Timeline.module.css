@@ -1,0 +1,13 @@
+.Timeline_Container {
+  color: #111;
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+.Timeline_Item {
+  margin-left: 20px;
+  width: 70%;
+}
+.Title {
+  padding-bottom: 4px;
+}

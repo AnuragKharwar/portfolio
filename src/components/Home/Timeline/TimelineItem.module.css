@@ -1,0 +1,20 @@
+.Container {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+.Container li {
+  margin-bottom: 2rem;
+}
+.Timeline_title {
+  color: #111;
+}
+.dot {
+  width: 10px;
+  height: 10px;
+  background-color: #777;
+  border-radius: 10px;
+  position: absolute;
+  left: -14px;
+  top: 8px;
+}
