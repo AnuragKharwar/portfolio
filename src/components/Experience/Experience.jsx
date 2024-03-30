@@ -12,10 +12,11 @@ const Experience = () => {
         path === "/experience" && "h-[100vh]"
       } `}
     >
-      <div className="text-bold text-4xl font-brygada1918 p-5">
-        <h1 className="font-semibold underline " id="experience">
+      <div className="text-bold text-4xl font-brygada1918 p-5 relative">
+        <h1 className="font-semibold " id="experience">
           Experience
         </h1>
+        <p className="absolute top-[65px] w-[180px] h-[4px] bg-black"></p>
       </div>
 
       <div className="mt-[50px] flex lg:flex-row flex-col justify-between gap-x-10 lg:gap-x-18 gap-y-14 ">
