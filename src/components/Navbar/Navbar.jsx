@@ -16,7 +16,7 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   const location = useLocation();
   const path = location.pathname;
-  console.log(path);
+
   return (
     <div className="w-full flex dark:bg-[#222831] bg-slate-200 sticky top-0 justify-end z-10 opacity-80">
       <div className="md:hidden  w-full flex p-2 ">

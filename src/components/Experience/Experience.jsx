@@ -1,9 +1,17 @@
 import React from "react";
 import Card from "./Card";
+import { useLocation } from "react-router-dom";
 
 const Experience = () => {
+  const location = useLocation();
+  const path = location.pathname;
+
   return (
-    <div className="mt-[50px]  flex h-[full]  flex-col items-center justify-center">
+    <div
+      className={`mt-[50px]  flex flex-col items-center justify-center ${
+        path !== "/" ? "h-[100vh]" : "h-[full] "
+      }`}
+    >
       <div className="text-bold text-4xl font-brygada1918 p-5">
         <h1 className="font-semibold underline " id="experience">
           Experience
