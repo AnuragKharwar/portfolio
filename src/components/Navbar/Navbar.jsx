@@ -39,7 +39,7 @@ const Navbar = () => {
           </DropdownMenuTrigger>
           <DropdownMenuContent className="bg-slate-100 opacity-90">
             <DropdownMenuLabel className="hover:bg-slate-300">
-              <div className=" cursor-pointer flex  items-center gap-x-2 ">
+              <div className=" cursor-pointer flex  items-center gap-x-2">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   fill="none"

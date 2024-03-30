@@ -9,8 +9,8 @@ const Experience = () => {
   return (
     <div
       className={`mt-[50px]  flex flex-col items-center justify-center ${
-        path !== "/" ? "h-[100vh]" : "h-[full] "
-      }`}
+        path === "/experience" && "h-[100vh]"
+      } `}
     >
       <div className="text-bold text-4xl font-brygada1918 p-5">
         <h1 className="font-semibold underline " id="experience">
@@ -18,7 +18,7 @@ const Experience = () => {
         </h1>
       </div>
 
-      <div className="mt-[50px]  h-full flex lg:flex-row flex-col justify-between gap-x-32 gap-y-14 ">
+      <div className="mt-[50px]  h-full flex md:flex-row flex-col justify-between gap-x-10 lg:gap-x-32 gap-y-14 ">
         <Card
           role="SDE-1"
           src={"/assets/sde.jpg"}
