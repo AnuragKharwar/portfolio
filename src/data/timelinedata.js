@@ -1,8 +1,8 @@
 export default [
   {
     year: "April-2024-Current",
-    title: "SDE-1 MERN",
-    duration: "ongoing",
+    title: "SDE-1",
+    duration: "Ongoing",
     details:
       "Working Remotely for Information Data system Developing front end for the web products.",
   },

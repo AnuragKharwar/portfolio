@@ -12,18 +12,18 @@ export default [
     link: "https://sortingvisualizerbyanurag.netlify.app/",
   },
   {
+    title: "YouTube-clone",
+    imgUrl: "/assets/youtube.png",
+    stack: ["HTML", "CSS", "Javascript", "React"],
+    link: "https://play-tubebyanurag.netlify.app/",
+  },
+  {
     title: "Netflix-clone",
     imgUrl: "/assets/netflix.jpg",
     stack: ["Javascript", "React", "Redux", "Firebase"],
     link: "https://netflixcloneanurag.netlify.app/",
   },
 
-  {
-    title: "YouTube-clone",
-    imgUrl: "/assets/youtube.png",
-    stack: ["HTML", "CSS", "Javascript", "React"],
-    link: "https://play-tubebyanurag.netlify.app/",
-  },
   {
     title: "Food-app",
     imgUrl: "/assets/foodapp.png",

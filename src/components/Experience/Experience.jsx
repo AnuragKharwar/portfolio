@@ -25,7 +25,7 @@ const Experience = () => {
           src={"/assets/sde2.png"}
           organisation={"IDS · Front-End Developer"}
           time={"April 2024 - Currenlty"}
-          location={"Hyderabad,India · Remote"}
+          location={"India · Remote"}
           description={
             "Working Remotly as a Front-End Developer and developing User-interfaces and integrating api for blockchain based web product."
           }
@@ -35,7 +35,7 @@ const Experience = () => {
           src={"/assets/intern2.jpeg"}
           organisation={"IDS · Front-End Internship"}
           time={"Sept 2023 - March 2024 · 6 months"}
-          location={"Hyderabad,India · Remote"}
+          location={"India · Remote"}
           description={
             "Developned various User Interfaces and web application UI for blockchain based web product using Reactjs,Nextjs,tailwind,etc and also integrated many GraaphQl and Rest Apis."
           }
