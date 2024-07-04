@@ -1,9 +1,9 @@
 export default [
   {
-    title: "Developer Portfolio",
-    imgUrl: "/assets/portfolio.png",
-    stack: ["Tailwind", "Javascript", "React", "vite"],
-    link: "https://foodapp321.netlify.app/",
+    title: "Canvasily.io",
+    imgUrl: "/assets/canvasly.png",
+    stack: ["TypeScript", "Tailwind", "Nexttjs", "Nestjs"],
+    link: "https://canvasily.netlify.app/",
   },
   {
     title: "Sorting-Visualizer",

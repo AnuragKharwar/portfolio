@@ -21,11 +21,10 @@ const About = () => {
             <p>
               Dedicated and dynamic professional with a graduation in
               Electronics and Communication Engineering from NIT Surat.
-              Leveraging a comprehensive 6-month internship experience, adept at
-              developing seamless user interfaces and seamlessly integrating
-              them with APIs to drive enhanced user experiences. Passionate
-              about leveraging technology to innovate and deliver impactful
-              solutions.
+              Leveraging a comprehensive 1+ year, adept at developing seamless
+              user interfaces and seamlessly integrating them with APIs to drive
+              enhanced user experiences. Passionate about leveraging technology
+              to innovate and deliver impactful solutions.
             </p>
           </div>
         </div>

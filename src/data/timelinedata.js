@@ -4,7 +4,7 @@ export default [
     title: "SDE-1",
     duration: "Ongoing",
     details:
-      "Working Remotely for Information Data system Developing front end for the web products.",
+      "Working remotely for Information Data System developing front end for web products. Responsibilities include creating and optimizing user interfaces, integrating APIs for dynamic data handling, managing state and store management with tools like Redux, implementing session handling for secure user authentication and data persistence, and ensuring responsive and accessible design across various devices and browsers. Additional tasks involve collaborating with backend developers, participating in code reviews, and maintaining up-to-date documentation.",
   },
   {
     year: "Sept-2023-March-2024",
