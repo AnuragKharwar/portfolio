@@ -1,9 +1,9 @@
 import React from "react";
 const About = () => {
   return (
-    <div className="flex justify-start mt-40   h-[100vh] flex-col items-center border-b-2 border-black ">
+    <div className="flex justify-start mt-40  h-full min-h-[100vh] flex-col items-center border-b-2 border-black ">
       <div className="lg:w-[70rem] flex flex-col justify-center items-center lg:px-10 lg:grid grid-cols-2  ">
-        <div className="flex justify-center items-center w-[30rem] h-[30rem] relative  overflow-hidden ">
+        <div className="flex justify-center items-center w-[100vw] lg:w-[30rem] h-[30rem] relative  overflow-hidden ">
           <img
             src="/assets/anurag_pic.jpg"
             className="absolute lg:w-[100%] lg:h-[100%]  bg-cover p-20 lg:p-0 rounded-full"
@@ -17,7 +17,7 @@ const About = () => {
               Hyderabad,India.
             </h1>
           </div>
-          <div className="text-lg mt-4 ">
+          <div className="text-lg mt-4  ">
             <p>
               Dedicated and dynamic professional with a graduation in
               Electronics and Communication Engineering from NIT Surat.
