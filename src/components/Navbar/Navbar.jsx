@@ -385,7 +385,7 @@ const Navbar = () => {
                 Resume
               </NavLink> */}
               <a
-                href="https://drive.google.com/file/d/1BiiiHLGqggFy3rU6aSo_siRZENk4RAc_/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1IaOTCRYh4LBcx8-eTu9YNvRHb5X-DJvU/view?usp=sharing"
                 target="_blank"
               >
                 Resume
