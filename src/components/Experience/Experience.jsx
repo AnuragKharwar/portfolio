@@ -24,17 +24,17 @@ const Experience = () => {
           role="SDE-1"
           src={"/assets/sde2.png"}
           organisation={"IDS · Front-End Developer"}
-          time={"March 2024 - Currenlty"}
+          time={"December 2023 - Present · 11 months"}
           location={"India · Remote"}
           description={
-            "Working Remotly as a Front-End Developer and developing User-interfaces and integrating api for blockchain based web product."
+            "Working Remotly as a Front-End Developer and developing User-interfaces and integrating api for blockchain based web product and internal tools."
           }
         />
         <Card
           role="Intern"
           src={"/assets/intern2.jpeg"}
           organisation={"IDS · Front-End Internship"}
-          time={"Aug 2023 - Feb 2024 · 6 months"}
+          time={"September 2023 - November 2023 · 3 months"}
           location={"India · Remote"}
           description={
             "Developned various User Interfaces and web application UI for blockchain based web product using Reactjs,Nextjs,tailwind,etc and also integrated many GraaphQl and Rest Apis."

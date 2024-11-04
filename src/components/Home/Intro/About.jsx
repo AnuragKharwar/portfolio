@@ -13,8 +13,7 @@ const About = () => {
           <div className=" text-bold text-4xl font-brygada1918">
             <h1 className="font-semibold">
               Hi👋 I'm Anurag, a Front-End Developer working remotely for
-              Information Data System on Block Chain based Web product in
-              Hyderabad,India.
+              Information Data System on Block Chain based Web product.
             </h1>
           </div>
           <div className="text-lg mt-4  ">

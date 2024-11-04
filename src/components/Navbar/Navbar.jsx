@@ -73,7 +73,7 @@ const Navbar = () => {
               </div>
             </DropdownMenuLabel>
             <DropdownMenuSeparator className="underline bg-slate-400" />
-            <DropdownMenuItem className="hover:bg-slate-300">
+            {/* <DropdownMenuItem className="hover:bg-slate-300">
               <div
                 className={`cursor-pointer flex  items-center gap-x-2 ${
                   path === "/about" ? "font-semibold underline" : ""
@@ -96,7 +96,7 @@ const Navbar = () => {
 
                 <NavLink to="/about">About</NavLink>
               </div>
-            </DropdownMenuItem>
+            </DropdownMenuItem> */}
             <DropdownMenuItem className="hover:bg-slate-300">
               {" "}
               <div
@@ -196,7 +196,7 @@ const Navbar = () => {
                 )}
               </div>
             </DropdownMenuItem>
-            <DropdownMenuItem className="hover:bg-slate-300">
+            {/* <DropdownMenuItem className="hover:bg-slate-300">
               <div className="flex items-center gap-x-2">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -220,7 +220,7 @@ const Navbar = () => {
                   Resume
                 </a>
               </div>
-            </DropdownMenuItem>
+            </DropdownMenuItem> */}
             <DropdownMenuItem className="hover:bg-slate-300">
               <div className="cursor-pointer flex  items-center gap-x-2">
                 <svg
@@ -316,13 +316,13 @@ const Navbar = () => {
                 </NavLink>
               )}
             </li>
-            <li
+            {/* <li
               className={`mt-2 hover:scale-110 hover:underline ${
                 path === "/about" ? "font-semibold underline" : ""
               }`}
             >
               <NavLink to="/about">About</NavLink>
-            </li>
+            </li> */}
             <li
               className={`mt-2 hover:scale-110 hover:underline ${
                 path === "/project" ? "font-semibold underline" : ""
@@ -384,12 +384,12 @@ const Navbar = () => {
               {/* <NavLink to="/resume" activeClassName="active">
                 Resume
               </NavLink> */}
-              <a
+              {/* <a
                 href="https://drive.google.com/file/d/1IaOTCRYh4LBcx8-eTu9YNvRHb5X-DJvU/view?usp=sharing"
                 target="_blank"
               >
                 Resume
-              </a>
+              </a> */}
             </li>
             <li className="mt-2 hover:scale-110 hover:underline">
               <Link
