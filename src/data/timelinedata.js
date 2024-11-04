@@ -1,15 +1,15 @@
 export default [
   {
-    year: "March-2024-Current",
+    year: "December-2023-Present",
     title: "SDE-1",
     duration: "Ongoing",
     details:
       "Working remotely for Information Data System developing front end for web products. Responsibilities include creating and optimizing user interfaces, integrating APIs for dynamic data handling, managing state and store management with tools like Redux, implementing session handling for secure user authentication and data persistence, and ensuring responsive and accessible design across various devices and browsers. Additional tasks involve collaborating with backend developers, participating in code reviews, and maintaining up-to-date documentation.",
   },
   {
-    year: "Aug-2023-Feb-2024",
+    year: "September-2023-November 2023",
     title: "Front-End Intern",
-    duration: "6 months",
+    duration: "3 months",
     details:
       "Worked on a Block-chain based d-App web application with multiple components for admins, partners, maintainers for making transactions entity onboarding and node setups, along with Rest and Graphql Api integrations.Tech–NextJs,Tailwind,shadCn Developed polyversity.io created entire UI and implementing standalone features. Additionally, I contributed to various UI components from different applications.",
   },
