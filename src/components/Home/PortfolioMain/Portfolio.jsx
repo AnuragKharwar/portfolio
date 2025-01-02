@@ -5,8 +5,10 @@ import classes from "./Portfolio.module.css";
 const Portfolio = () => {
   return (
     <div className={classes.Portfolio_container}>
-      <h1 id="project">Personal Projects</h1>
-      <p className={classes.Line}></p>
+      <h1 id="project" className="underline">
+        Personal Projects
+      </h1>
+      {/* <p className={classes.Line}></p> */}
       <div className={classes.Portfolio_body}>
         {portfolio.map((project, index) => (
           <PortfolioItem
