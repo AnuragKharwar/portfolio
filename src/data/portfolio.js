@@ -11,26 +11,24 @@ export default [
     stack: ["HTML", "CSS", "Javascript", "React"],
     link: "https://sortingvisualizerbyanurag.netlify.app/",
   },
-  {
-    title: "YouTube-clone",
-    imgUrl: "/assets/youtube.png",
-    stack: ["HTML", "CSS", "Javascript", "React"],
-    link: "https://play-tubebyanurag.netlify.app/",
-  },
-  {
-    title: "Netflix-clone",
-    imgUrl: "/assets/netflix.jpg",
-    stack: ["Javascript", "React", "Redux", "Firebase"],
-    link: "https://netflixcloneanurag.netlify.app/",
-  },
-
+  // {
+  //   title: "YouTube-clone",
+  //   imgUrl: "/assets/youtube.png",
+  //   stack: ["HTML", "CSS", "Javascript", "React"],
+  //   link: "https://play-tubebyanurag.netlify.app/",
+  // },
+  // {
+  //   title: "Netflix-clone",
+  //   imgUrl: "/assets/netflix.jpg",
+  //   stack: ["Javascript", "React", "Redux", "Firebase"],
+  //   link: "https://netflixcloneanurag.netlify.app/",
+  // },
   {
     title: "Food-app",
     imgUrl: "/assets/foodapp.png",
     stack: ["Javascript", "React", "Firebase"],
     link: "https://foodapp321.netlify.app/",
   },
-
   {
     title: "GPT-3 Open AI",
     imgUrl: "/assets/gpt-3.png",
